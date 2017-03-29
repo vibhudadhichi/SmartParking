@@ -17,3 +17,6 @@ The user needs to enter the Car registration number in the field provided and cl
 
 
 The user can locate the parked car using the "LOCATE" button  as follows -
+
+![screenshot_20170329-234732](https://cloud.githubusercontent.com/assets/20648536/24470624/3a001fd0-14dd-11e7-8ae2-c2a57173983c.png)
+
